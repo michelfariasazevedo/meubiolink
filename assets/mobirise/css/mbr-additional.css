@@ -683,7 +683,7 @@ a {
   transition: color 0.6s;
 }
 .cid-tuPPHlxsLB {
-  background-image: url("../../../assets/images/mbr-1920x1344.jpg");
+  background-image: url("../../../assets/images/firefox.jpg-1920x1344.jpg");
 }
 @media (min-width: 275px) and (max-width: 575px) {
   .cid-tuPPHlxsLB .mbr-video-foreground {
@@ -807,16 +807,15 @@ a {
 }
 .cid-tuPPHlxsLB .btn-danger,
 .cid-tuPPHlxsLB .btn-danger:active {
-  background-color: #ffffff !important;
-  border-color: 1px solid;
-  color: #232323 !important;
+  color: #ffffff !important;
+  background-color: #000000 !important;
   box-shadow: 8px 6px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .cid-tuPPHlxsLB .btn-danger:hover,
 .cid-tuPPHlxsLB .btn-danger:active:hover {
-  background-color: #ff832f !important;
-  border-color: #ff832f !important;
   color: #ffffff !important;
+  background-color: #ff832f !important;
+  box-shadow: 8px 6px 2px 0 rgba(0, 0, 0, 0.2);
 }
 .cid-tuPPHlxsLB .mb-4 {
   margin-bottom: 1rem !important;
